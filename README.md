@@ -13,8 +13,8 @@ This repository contains core Reflexes gameplay systems developed in Unity using
 - Participating in listening, constructive feedback cycles, and peer review
 
 ## Tools
-Unity Engine
-C#
+- Unity Engine
+- C#
 
 ## Purpose
 This project was created as a learning and portfolio piece focused on gameplay programming.
