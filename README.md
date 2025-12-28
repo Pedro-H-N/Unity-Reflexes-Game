@@ -1,16 +1,13 @@
 ## Overview
 This repository contains core Reflexes gameplay systems developed in Unity using C#.
 
-## Skills
-- Diagnose and fix code that compiles, but fails to perform as expected
-- Coordinate a user feedback and testing session
-- Control the execution of code with common logic structures
-- Compose scripts that utilize various APIs
-- Implement appropriate data types
-- Write code that integrates into an existing system
-- Cultivate a code style that is efficient and easy to read
-- Prototype new concepts
-- Participating in listening, constructive feedback cycles, and peer review
+## Features
+- Random objects are tossed into the air on intervals
+- If you click on an object, it is destroyed
+- Score System
+- Particle explosions
+- Title screen 
+- Difficulty selection
 
 ## Tools
 - Unity Engine
