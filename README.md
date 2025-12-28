@@ -1,7 +1,7 @@
 ## Overview
 This repository contains core Reflexes gameplay systems developed in Unity using C#.
 
-## Features
+## Skills
 - Diagnose and fix code that compiles, but fails to perform as expected
 - Coordinate a user feedback and testing session
 - Control the execution of code with common logic structures
